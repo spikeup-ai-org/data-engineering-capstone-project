@@ -10,6 +10,6 @@ This project is set up in steps/phases where you will incrementally achieve spec
 
 1. [Week 1](Week-1): Code versioning & CI/CD with Github
 2. [Week 2](Week-2): Data processing with Spark ( read from raw data in cloud storage, and populate to google SQL database)
-3. [Week 3 & 4](Week-3-&-4): Orchestration with Airflow on GCP cloud composer
+3. [Week 3 & 4](Week-3-%26-4): Orchestration with Airflow on GCP cloud composer
 
 With each step, you will get introduced to the essential tools to set up and run a reproducible and automated data engineering project.
