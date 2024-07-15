@@ -12,10 +12,12 @@ In this step, you will perform analysis on the data with the aim to understand i
 ## Pre-requisites
 
 1. Install miniconda - https://docs.anaconda.com/free/miniconda/
+    1. Create and activate the environment in `capstone.yml` - [how to](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 2. Create a python conda environment with python 3.9 - https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands
 3. Install additional libraries specified in requirements.txt file which includes pyspark
-4. install google cloud cli - https://cloud.google.com/sdk/docs/install
-5. Set up access to GCP - add docs
+4. Install google cloud cli - https://cloud.google.com/sdk/docs/install
+5. Set up access to GCP via [Service accounts](https://cloud.google.com/iam/docs/service-account-overview)
+    1. See example notebook
 
 ## Tasks
 
