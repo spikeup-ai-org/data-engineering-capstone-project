@@ -27,6 +27,7 @@ In this step, you shall set up your Github repository within which you will be d
         1. Create a branch
         2. Create a PR from your branch to the main/master branch
 6. Create a simple Github Actions workflow that prints “hello world”. See resource section #2
+    1. Use Free github hosted runners - [how-to](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners/about-github-hosted-runners)
 
 
 ## Resources

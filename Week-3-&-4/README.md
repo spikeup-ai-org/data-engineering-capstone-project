@@ -24,6 +24,7 @@ In this step, we want to automate the insights generation(as done in previous we
         1. Use Python Operator to ensure your code can run <- check right operator
         2. Ensure your DAG reads/accesses the right data
         3. Write your insights back to the same bucket in a sub folder - `gs://<BUCKET>/insights`
+        4. It is possible to install any Python dependencies - [how to](https://cloud.google.com/composer/docs/composer-3/install-python-dependencies)
 
 3. Integrate the sync of DAGs with your CI/CD - (See Week 1 Task 6)
     1. Hints: 
@@ -31,8 +32,6 @@ In this step, we want to automate the insights generation(as done in previous we
         2. Ensure your CI environment has the required credentials to access the GCP account
         3. CI/CD should copy you DAG files to the DAG folder in the bucket connected to composer. See resource #3
     
-
-
 
 
 ## Resources
